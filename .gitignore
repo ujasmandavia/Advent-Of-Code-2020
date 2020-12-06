@@ -1,1 +1,7 @@
-/Day-01/*.o
+*.o
+*.exe
+*.out
+*.app
+*.slo
+*.lo
+*.obj
